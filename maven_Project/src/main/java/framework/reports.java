@@ -19,31 +19,7 @@ public class reports {
 	    
 	    public static  void main(String [] args) {
 	    	extent =new ExtentReports("C:\\Users\\naman\\Downloads\\name.html",true);
-	    	extent.loadConfig(new File("C:\\Users\\naman\\eclipse-workspace\\maven_Project\\extent-config.xml"));
-	    	extent.addSystemInfo("hi", "value");
-	    	//logger.addScreenCapture("C:\\Users\\naman\\Downloads\\name.html");
-	    //	logger.log(logStatus. stepName, details);
-	    	//Select s1 = new Select(null);
-	    	logger.log(LogStatus.PASS, "stepName", "details");
-	    	//extent.
-	    	WebDriver driver = new ChromeDriver();
-	    	Actions a1 = new Actions(driver);
-	    	WebElement we= null;
-	    	a1.click(we).build().perform();
-	    	///dsdvdsvs
-	    	//vs
-	    	//vvvsvvfdsv
-	    	//vdfsvsvsvf
-	    	//vfsvfvfv\
-	    	tgeggae
-	    	g
-	    	fe
-	    	gg
-	    	g
-	    	gg
-	    	ge
-	    	a
-	    	hgf
+	 
 	    
 	    }
 	       
